@@ -9,4 +9,5 @@ It is an integration of following sites:
 
 # [Anime Universe](https://itzmeutkarshh.github.io/Anime-Universe/)
 
+![animeWorld_page-0001](https://github.com/itzmeutkarshh/Anime-World/assets/100088315/83422f95-e673-441a-88b2-d06b3cb1f0fd)
 
