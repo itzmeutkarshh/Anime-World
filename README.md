@@ -5,8 +5,8 @@ This site is an virtual place for anime fans/weebs.
 It is an integration of following sites:
 <br>
 <br>
-#[Anime Gallery](https://itzmeutkarshh.github.io/Anime-Gallery/)
+# [Anime Gallery](https://itzmeutkarshh.github.io/Anime-Gallery/)
 <br>
-#[Anime Universe](https://itzmeutkarshh.github.io/Anime-Universe/)
+# [Anime Universe](https://itzmeutkarshh.github.io/Anime-Universe/)
 
 
